@@ -54,3 +54,11 @@ Dieses Projekt entwickelt ein XGBoost-Modell, um die tägliche Produktnachfrage 
 - XGBoost
 - Scikit-learn
 - MLflow
+
+---
+
+### 📚 Datenquelle
+
+Die für diese Analyse verwendeten Rohdaten stammen aus dem Kaggle-Wettbewerb: **["Corporación Favorita Grocery Sales Forecasting"]**.
+
+(https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
