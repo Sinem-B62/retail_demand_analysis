@@ -2,9 +2,11 @@
 ---
 Dieses Projekt entwickelt ein XGBoost-Modell, um die tägliche Produktnachfrage für Einzelhandelsfilialen in der Provinz Guayas vorherzusagen.
 
-🎯 Business-ZielProblem: Ungenaue Prognosen führen zu Überbeständen (hohe Kosten) oder Fehlbeständen (Umsatzverlust).
+## 🎯 Business-Ziel
 
-### **Lösung:** Ein ML-Modell zur Optimierung der Bestandsverwaltung durch präzise Tägliche-Prognosen auf Filial- und Artikelebene.
+ **Problem:** Ungenaue Prognosen führen zu Überbeständen (hohe Kosten) oder Fehlbeständen (Umsatzverlust).
+ 
+ **Lösung:** Ein ML-Modell zur Optimierung der Bestandsverwaltung durch präzise Tägliche-Prognosen auf Filial- und Artikelebene.
 
 ### **📋 Projekt-Scope & Fokus**
 
