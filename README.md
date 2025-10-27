@@ -36,8 +36,8 @@ Dieses Projekt entwickelt ein XGBoost-Modell, um die tägliche Produktnachfrage 
 ### 📈 **Ergebnisse & Herausforderungen** 
 | **Modell**             | **Parameter**           | **Ergebnis**                                                         |
 | ---------------------- | ----------------------- | -------------------------------------------------------------------- |
-| **Baseline-Modell**    | Standard-Hyperparameter | Referenzwert für Fehler-Metrik (z. B. RMSE = 0.88)                   |
-| **Optimiertes Modell** | Getunte Hyperparameter  | **Signifikante Reduzierung** des Prognosefehlers (z. B. RMSE = 0.84) |
+| **Baseline-Modell**    | Standard-Hyperparameter | Referenzwert für Fehler-Metrik (z. B. RMSE = 0.86)                   |
+| **Optimiertes Modell** | Getunte Hyperparameter  | **Signifikante Reduzierung** des Prognosefehlers (z. B. RMSE = 0.81) |
 
 
 
