@@ -37,9 +37,7 @@ Dieses Projekt entwickelt ein XGBoost-Modell, um die tägliche Produktnachfrage 
 | **Modell**             | **Parameter**           | **Ergebnis**                                                         |
 | ---------------------- | ----------------------- | -------------------------------------------------------------------- |
 | **Baseline-Modell**    | Standard-Hyperparameter | Referenzwert für Fehler-Metrik (z. B. RMSE = 0.86)                   |
-| **Optimiertes Modell** | Getunte Hyperparameter  | **Signifikante Reduzierung** des Prognosefehlers (z. B. RMSE = 0.81) |
-
-
+| **Optimiertes Modell** | Getunte Hyperparameter  | **Signifikante Reduzierung** des Prognosefehlers (z. B. RMSE = 0.82) |
 
 
 **Wichtige Herausforderungen**
@@ -48,6 +46,19 @@ Dieses Projekt entwickelt ein XGBoost-Modell, um die tägliche Produktnachfrage 
 - Feature Engineering: Die Erstellung von Lag- und Rolling-Features war der Schlüssel zur Modellgenauigkeit.
 
 - Reproduzierbarkeit: Sicherstellung konsistenter Ergebnisse durch random_state=42 und MLflow.
+
+### 🧠 Warum XGBoost?
+
+Das Modell **XGBoost (Extreme Gradient Boosting)** wurde gewählt, da es sich besonders gut für **zeitreihenbasierte Regressionsaufgaben mit strukturierten Daten** eignet.  
+Es kombiniert viele schwache Entscheidungsbäume zu einem starken Ensemble und bietet dadurch:
+
+- **Hohe Genauigkeit** durch effektives Boosting-Verfahren  
+- **Robustheit** gegenüber Ausreißern und fehlenden Werten  
+- **Effizienz & Skalierbarkeit** für große Datensätze  
+- **Interpretierbarkeit** durch Feature Importances und SHAP-Werte  
+
+➡️ **Fazit:** XGBoost liefert das beste Gleichgewicht zwischen Genauigkeit, Stabilität und Nachvollziehbarkeit für die Prognose der täglichen Produktnachfrage.
+
 
 ### **🛠️ Tech-Stack**
 
