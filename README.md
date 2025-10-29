@@ -71,5 +71,5 @@ Die für diese Analyse verwendeten Rohdaten stammen aus dem Kaggle-Wettbewerb: *
  [01_data_guayas_preprocessing.ipynb](https://colab.research.google.com/drive/1GWefzPzuUnXaa4HqD7xiq0RsD4Vk8D3n?usp=sharing)
 
 - 🤖 **Modellierung & Evaluation**  
-  [02_&_03_guayas_modeling_and_evaluation.ipynb]([https://colab.research.google.com/drive/2BcDeFgHiJkLmNoPqRsTuVwXyZa](https://colab.research.google.com/drive/18Ox2ScJpH1fP7JgzmbqQr1YytUAieSxV?usp=sharing))
+  [02_&_03_guayas_modeling_and_evaluation.ipynb](https://colab.research.google.com/drive/18Ox2ScJpH1fP7JgzmbqQr1YytUAieSxV?usp=sharing)
 
