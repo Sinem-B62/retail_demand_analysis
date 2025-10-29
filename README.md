@@ -65,7 +65,7 @@ Die für diese Analyse verwendeten Rohdaten stammen aus dem Kaggle-Wettbewerb: *
 
 (https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
-## 📘 Google Colab Notebooks
+### 📘 Google Colab Notebooks
 
 - 📊 **Datenaufbereitung & Feature Engineering**  
  [01_data_guayas_preprocessing.ipynb](https://colab.research.google.com/drive/1GWefzPzuUnXaa4HqD7xiq0RsD4Vk8D3n?usp=sharing)
